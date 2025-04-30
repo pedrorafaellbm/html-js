@@ -26,3 +26,6 @@ let tamanhos = ['P', 'PP', 'M', 'G', 36, 38, 40, 54];
 const temPet = false;
 
 const idade = 28;
+
+let dataCadastro = new Date(); //pega a data e hora atual
+console.log(dataCadastro);
